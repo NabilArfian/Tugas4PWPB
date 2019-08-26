@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Tugas4PWPB</string>
+    <string name="ripiu">Nintendo Switch</string>
+    <string name="deskripsi">Adalah suatu konsol gaming terbaru buatan Nintendo. Sesuai dengan namanya "Switch" yang artinya beralih / berganti, kelebihan utama dari perangkat game ini adalah kemampuannya untuk dapat digunakan secara portable (bisa dibawa kemana-mana) namun disaat yang bersamaan juga masih bisa digunakan dengan nyaman jika disambungkan dengan TV atau layar lebar.</string>
+    <string name="mesin">Specs:
+Custom Nvidia Tegra CPU
+Nvidia GPU
+6.2in LCD touchscreen, 1280x720
+Video output up to 1080p 60fps via dock
+32GB storage
+Micro-SDXC card slot
+USB-C for charging and dock connection
+11ac Wi-Fi
+Bluetooth 4.1
+Stereo speakers
+Headphone jack
+Game card slot (Switch games only)
+Accelerometer, gyroscope, brightness sensor
+4310mAh non-removable battery
+Up to 3 hours gaming, more than 6 for other usage
+3 hour charging time
+102mm x 239mm x 13.9mm (with Joy-Cons attached)
+297g (398g with Joy-Cons)</string>
+
+
+</resources>
+
